@@ -42,4 +42,4 @@ docker-compose run celery
 Запуск Celery beat
 ```bash
 docker-compose run celery-beat
-```# text_analyzer
+```
